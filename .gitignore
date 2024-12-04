@@ -2,3 +2,5 @@ node_modules
 logs
 dev-data
 public/img
+config.env
+eslint.config.mjs
